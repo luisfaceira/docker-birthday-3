@@ -12,7 +12,6 @@
 <a href="https://www.docker.com/docker-birthday"><img align="right" src="https://www.docker.com/sites/default/files/illustration-com-container-party.png"></a>
 
 
-
 ### Training materials:
 
 
